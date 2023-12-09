@@ -1,0 +1,10 @@
+*.log 
+logs/ 
+**/*.tmp 
+
+# ignore files
+package-lock.json
+
+# ignore folders
+*node_modules/*
+
